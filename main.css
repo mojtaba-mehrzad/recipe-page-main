@@ -32,7 +32,7 @@ main{
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    background-color: hsl(330, 100%, 98%);
+    background-color: hsl(0, 0%, 100%);
     width: 728px;
     padding: 40px;
     border-radius: 15px;
@@ -60,7 +60,7 @@ main{
 
 /* ------section one------ */
 .section-one{
-    background-color: hsl(330, 100%, 97%);
+    background-color: hsl(330, 100%, 98%);
     width: 100%;
     border-radius: 15px;
     padding: 0px 20px;
